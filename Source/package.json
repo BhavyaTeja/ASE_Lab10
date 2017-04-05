@@ -1,0 +1,21 @@
+{
+  "name": "ase_lab10",
+  "version": "1.0.0",
+  "description": "displaying the registered user details",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git_https://github.com/BhavyaTeja/ASE_Lab10.git"
+  },
+  "keywords": [
+    "Bhavya"
+  ],
+  "author": "Bhavya",
+  "license": "ISC",
+  "devDependencies": {
+    "mongoose": "^4.9.3"
+  }
+}
